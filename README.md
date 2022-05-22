@@ -1,4 +1,4 @@
-# Volleyball-code
+# Volleyball-team-size
 This is a code which I have written to get a estimation of how many people are willing to play volleyball.
 I have used python programming language to built this code.
 I have used loops to built this code and it is pretty easy understable code for my volleyball associates.
